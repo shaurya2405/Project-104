@@ -1,0 +1,21 @@
+body 
+{
+background-color: pink;    
+}
+
+h3
+{
+width: 80%;
+font-size: 22px;    
+}
+
+#camera {
+height: 300px;
+width: 350px;
+border: 2px dashed black;
+}
+
+button
+{
+width: 100%;    
+}
